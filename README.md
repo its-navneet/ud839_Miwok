@@ -17,7 +17,7 @@ Getting Started
 This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://drive.google.com/file/d/1sNdeuhZOFRl3uymFTpJDMFxnAUHp2WK0/view)
+[![Watch the video](https://drive.google.com/file/d/1sNdeuhZOFRl3uymFTpJDMFxnAUHp2WK0/view)
 
 Support
 -------
